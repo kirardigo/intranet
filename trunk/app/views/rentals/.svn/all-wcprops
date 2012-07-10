@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/rentals
+END
+ajax_rental_detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/8154/mrs/emrs.millers.com/trunk/app/views/rentals/ajax_rental_detail.ctp
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/9023/mrs/emrs.millers.com/trunk/app/views/rentals/module_for_customer.ctp
+END
+module_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/rentals/module_summary.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/9945/mrs/emrs.millers.com/trunk/app/views/rentals/csv_summary.ctp
+END
+csv_summary_mrs.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/appdev/!svn/ver/10718/mrs/emrs.millers.com/trunk/app/views/rentals/csv_summary_mrs.ctp
+END
+reporting.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/rentals/reporting.ctp
+END

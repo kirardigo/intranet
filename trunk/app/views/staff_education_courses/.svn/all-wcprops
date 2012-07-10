@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/11290/mrs/emrs.millers.com/trunk/app/views/staff_education_courses
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/appdev/!svn/ver/11239/mrs/emrs.millers.com/trunk/app/views/staff_education_courses/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/11290/mrs/emrs.millers.com/trunk/app/views/staff_education_courses/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/11239/mrs/emrs.millers.com/trunk/app/views/staff_education_courses/csv_summary.ctp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/appdev/!svn/ver/11568/mrs/emrs.millers.com/trunk/app/views/prior_authorizations
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/appdev/!svn/ver/10975/mrs/emrs.millers.com/trunk/app/views/prior_authorizations/module_for_customer.ctp
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/11568/mrs/emrs.millers.com/trunk/app/views/prior_authorizations/summary.ctp
+END
+csv_mits_fup.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/appdev/!svn/ver/11568/mrs/emrs.millers.com/trunk/app/views/prior_authorizations/csv_mits_fup.ctp
+END
+ajax_detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/appdev/!svn/ver/11563/mrs/emrs.millers.com/trunk/app/views/prior_authorizations/ajax_detail.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/appdev/!svn/ver/11568/mrs/emrs.millers.com/trunk/app/views/prior_authorizations/csv_summary.ctp
+END

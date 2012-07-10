@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/bootstrap.php
+END
+inflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/inflections.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/routes.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/core.php
+END

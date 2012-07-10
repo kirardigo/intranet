@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/transaction_queue
+END
+post_transactions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/transaction_queue/post_transactions.ctp
+END
+module_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/transaction_queue/module_view.ctp
+END
+purge.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/9304/mrs/emrs.millers.com/trunk/app/views/transaction_queue/purge.ctp
+END

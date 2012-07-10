@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_carriers
+END
+module_client_header.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/appdev/!svn/ver/11459/mrs/emrs.millers.com/trunk/app/views/customer_carriers/module_client_header.ctp
+END
+ajax_carrier_detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/10371/mrs/emrs.millers.com/trunk/app/views/customer_carriers/ajax_carrier_detail.ctp
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_carriers/module_for_customer.ctp
+END
+create.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/appdev/!svn/ver/10442/mrs/emrs.millers.com/trunk/app/views/customer_carriers/create.ctp
+END
+module_customer_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_carriers/module_customer_summary.ctp
+END
+ajax_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/7568/mrs/emrs.millers.com/trunk/app/views/customer_carriers/ajax_edit.ctp
+END

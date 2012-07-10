@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/appdev/!svn/ver/11363/mrs/emrs.millers.com/trunk/app/views/shared
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/appdev/!svn/ver/11363/mrs/emrs.millers.com/trunk/app/views/shared/ajax.ctp
+END
+json_direct.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/appdev/!svn/ver/8767/mrs/emrs.millers.com/trunk/app/views/shared/json_direct.ctp
+END
+json.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/7770/mrs/emrs.millers.com/trunk/app/views/shared/json.ctp
+END

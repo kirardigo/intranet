@@ -1,0 +1,79 @@
+#fastDatePickerTable {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	border: 1px solid #453830;
+	background-color: #F5F5D6;
+}
+
+#fastDatePickerTable td {
+	border: 1px solid #453830;
+	padding: 3px;
+	text-align: center;
+}
+
+#fastDatePickerRowYearMonth {
+	background-color: #4A5CAE;
+	color: #FFF;
+}
+
+#fastDatePickerTableYearMonth {
+	border-collapse: collapse;
+	margin: 0;
+	padding: 0;
+}
+
+#fastDatePickerTableYearMonth td {
+	margin: 0;
+	border-width: 0px;
+}
+
+#fastDatePickerRowDaysOfWeek {
+	background-color: #F5F5D6;
+}
+
+#fastDatePickerCellYearMonth {
+	width: 130px;
+	border: 0px solid #000;
+}
+
+#fastDatePickerCellToday {
+	background-color: #4A5CAE;
+	color: #FFF;
+}
+
+#fastDatePickerCellSelected {
+	background-color: #A18F81;
+}
+
+.fastDatePickerEmphasizedDaysOfWeek {
+	background-color: #EBEBAB;
+}
+
+.fastDatePickerSelectableElement {
+}
+
+.fastDatePickerNonSelectableElement {
+	color: #530000;
+}
+
+.fastDatePickerSelectableElement:hover {
+	cursor: pointer;
+	background-color: #d0d0d0;
+}
+
+#fastDatePickerRowYearMonth .fastDatePickerSelectableElement:hover {
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+/* added for IE6 support */
+.fastDatePickerSelectableElementHover {
+	cursor: pointer;
+	background-color: #d0d0d0;
+}
+
+#fastDatePickerRowYearMonth .fastDatePickerSelectableElementHover {
+	background-color: transparent;
+	text-decoration: underline;
+}
+

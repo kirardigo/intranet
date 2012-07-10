@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/10620/mrs/emrs.millers.com/trunk/app/views/general_ledger
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/10620/mrs/emrs.millers.com/trunk/app/views/general_ledger/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/appdev/!svn/ver/10540/mrs/emrs.millers.com/trunk/app/views/general_ledger/index.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/10540/mrs/emrs.millers.com/trunk/app/views/general_ledger/csv_summary.ctp
+END

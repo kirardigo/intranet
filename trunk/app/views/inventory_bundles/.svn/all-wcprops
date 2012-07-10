@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/appdev/!svn/ver/11595/mrs/emrs.millers.com/trunk/app/views/inventory_bundles
+END
+management.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/11562/mrs/emrs.millers.com/trunk/app/views/inventory_bundles/management.ctp
+END
+module_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/appdev/!svn/ver/11562/mrs/emrs.millers.com/trunk/app/views/inventory_bundles/module_summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/11595/mrs/emrs.millers.com/trunk/app/views/inventory_bundles/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/appdev/!svn/ver/11562/mrs/emrs.millers.com/trunk/app/views/inventory_bundles/csv_summary.ctp
+END
+module_products.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/appdev/!svn/ver/11445/mrs/emrs.millers.com/trunk/app/views/inventory_bundles/module_products.ctp
+END

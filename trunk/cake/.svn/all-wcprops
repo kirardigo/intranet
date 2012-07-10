@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/appdev/!svn/ver/11515/mrs/emrs.millers.com/trunk/cake
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/LICENSE.txt
+END
+VERSION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/VERSION.txt
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/bootstrap.php
+END
+basics.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/basics.php
+END
+dispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/dispatcher.php
+END

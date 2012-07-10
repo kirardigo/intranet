@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/appdev/!svn/ver/8292/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/selection.js
+END
+edit_l1_information.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/8255/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/edit_l1_information.js
+END
+for_customer.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/for_customer.js
+END
+management_for_claims.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/appdev/!svn/ver/10950/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/management_for_claims.js
+END
+management.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/appdev/!svn/ver/10950/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/management.js
+END
+batch.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/9293/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/batch.js
+END
+ledger.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/appdev/!svn/ver/11649/mrs/emrs.millers.com/trunk/app/webroot/js/modules/invoices/ledger.js
+END

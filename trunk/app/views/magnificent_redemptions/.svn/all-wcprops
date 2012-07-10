@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/7946/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions
+END
+history.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/appdev/!svn/ver/7819/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions/history.ctp
+END
+redeem.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/appdev/!svn/ver/7884/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions/redeem.ctp
+END
+browse_history.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/7818/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions/browse_history.ctp
+END
+pending.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/appdev/!svn/ver/7946/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions/pending.ctp
+END
+review_pending.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/7933/mrs/emrs.millers.com/trunk/app/views/magnificent_redemptions/review_pending.ctp
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/appdev/!svn/ver/11515/mrs/emrs.millers.com/trunk/cake/libs
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/error.php
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/validation.php
+END
+overloadable_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/overloadable_php4.php
+END
+overloadable_php5.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/overloadable_php5.php
+END
+flay.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/flay.php
+END
+set.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/set.php
+END
+class_registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/class_registry.php
+END
+overloadable.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/overloadable.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/xml.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/cache.php
+END
+cake_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/cake_log.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/string.php
+END
+object.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/appdev/!svn/ver/11308/mrs/emrs.millers.com/trunk/cake/libs/object.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/security.php
+END
+l10n.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/l10n.php
+END
+folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/folder.php
+END
+multibyte.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/multibyte.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/i18n.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/appdev/!svn/ver/8115/mrs/emrs.millers.com/trunk/cake/libs/file.php
+END
+router.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/router.php
+END
+configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/appdev/!svn/ver/11458/mrs/emrs.millers.com/trunk/cake/libs/configure.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/session.php
+END
+debugger.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/debugger.php
+END
+magic_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/magic_db.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/inflector.php
+END
+sanitize.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/sanitize.php
+END
+http_socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/http_socket.php
+END
+socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/socket.php
+END

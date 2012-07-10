@@ -1,0 +1,55 @@
+.TabStrip {
+	list-style: none;
+	border-bottom: 1px solid #3A3829;
+	margin: 0;
+	padding: 3px 10px;
+}
+
+.TabStrip li {
+	display: inline;
+	border-bottom: 1px solid #fff;
+	padding-top: 4px;
+	margin-right: 5px;
+}
+
+.TabStrip li a {
+	border: 1px solid #3A3829;
+	background-color: #DDD;
+	color: #000;
+	padding: 3px 4px;
+	text-decoration: none;
+	font-size: 9px !important;
+}
+
+.TabStrip li.Disabled a {
+	background-color: #666;
+	color: white;
+}
+
+.TabStrip li.Selected a {
+	background-color: #FFF;
+	color: #000;
+	border-bottom: none;
+	position: relative;
+	top: 1px;
+	padding-top: 4px;
+}
+
+.TabStrip li a:hover {
+	background-color: #AAA;
+}
+
+.TabStrip li.Selected a:hover {
+	background-color: #FFF;
+}
+
+.TabContainer
+{
+	clear: left;
+	width: 945px;
+	min-height: 200px;
+}
+
+.TabPage {
+	margin: 5px 10px;
+}

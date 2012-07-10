@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/7619/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/freetype6.dll
+END
+makeallttffonts.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/makeallttffonts.php
+END
+ttf2ufm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/ttf2ufm
+END
+ttf2ufm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/7619/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/ttf2ufm.exe
+END
+pfm2afm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/pfm2afm
+END
+pfm2afm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/7619/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/pfm2afm.exe
+END
+makefont.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/makefont.php
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/9136/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/README.TXT
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/appdev/!svn/ver/7619/mrs/emrs.millers.com/trunk/app/vendors/tcpdf/fonts/utils/zlib1.dll
+END

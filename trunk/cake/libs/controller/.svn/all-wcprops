@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/appdev/!svn/ver/11515/mrs/emrs.millers.com/trunk/cake/libs/controller
+END
+scaffold.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/controller/scaffold.php
+END
+component.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/controller/component.php
+END
+pages_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/controller/pages_controller.php
+END
+app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/controller/app_controller.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/libs/controller/controller.php
+END

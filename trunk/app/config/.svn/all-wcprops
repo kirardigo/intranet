@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/appdev/!svn/ver/11736/mrs/emrs.millers.com/trunk/app/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/app/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/11512/mrs/emrs.millers.com/trunk/app/config/bootstrap.php
+END
+inflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/app/config/inflections.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/appdev/!svn/ver/9480/mrs/emrs.millers.com/trunk/app/config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/appdev/!svn/ver/11610/mrs/emrs.millers.com/trunk/app/config/database.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/11736/mrs/emrs.millers.com/trunk/app/config/core.php
+END

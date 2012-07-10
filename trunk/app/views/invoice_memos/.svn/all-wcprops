@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/appdev/!svn/ver/11589/mrs/emrs.millers.com/trunk/app/views/invoice_memos
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/appdev/!svn/ver/11589/mrs/emrs.millers.com/trunk/app/views/invoice_memos/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/11589/mrs/emrs.millers.com/trunk/app/views/invoice_memos/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/11589/mrs/emrs.millers.com/trunk/app/views/invoice_memos/csv_summary.ctp
+END

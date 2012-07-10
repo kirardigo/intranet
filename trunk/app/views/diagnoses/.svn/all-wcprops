@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/appdev/!svn/ver/10540/mrs/emrs.millers.com/trunk/app/views/diagnoses
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/appdev/!svn/ver/10540/mrs/emrs.millers.com/trunk/app/views/diagnoses/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/appdev/!svn/ver/10527/mrs/emrs.millers.com/trunk/app/views/diagnoses/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/appdev/!svn/ver/10527/mrs/emrs.millers.com/trunk/app/views/diagnoses/csv_summary.ctp
+END

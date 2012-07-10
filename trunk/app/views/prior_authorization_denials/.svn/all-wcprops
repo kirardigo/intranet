@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/appdev/!svn/ver/10950/mrs/emrs.millers.com/trunk/app/views/prior_authorization_denials
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/10950/mrs/emrs.millers.com/trunk/app/views/prior_authorization_denials/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/appdev/!svn/ver/10620/mrs/emrs.millers.com/trunk/app/views/prior_authorization_denials/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/10620/mrs/emrs.millers.com/trunk/app/views/prior_authorization_denials/csv_summary.ctp
+END

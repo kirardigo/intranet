@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/11667/mrs/emrs.millers.com/trunk/app/views/inventory_profit_center
+END
+ajax_profit_center_summary_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/appdev/!svn/ver/11503/mrs/emrs.millers.com/trunk/app/views/inventory_profit_center/ajax_profit_center_summary_view.ctp
+END
+module_profit_center_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/appdev/!svn/ver/11619/mrs/emrs.millers.com/trunk/app/views/inventory_profit_center/module_profit_center_summary.ctp
+END
+ajax_profit_center_detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/appdev/!svn/ver/11667/mrs/emrs.millers.com/trunk/app/views/inventory_profit_center/ajax_profit_center_detail.ctp
+END
+module_profit_center.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/appdev/!svn/ver/11667/mrs/emrs.millers.com/trunk/app/views/inventory_profit_center/module_profit_center.ctp
+END

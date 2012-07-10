@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/appdev/!svn/ver/11591/mrs/emrs.millers.com/trunk/app/views/accounts_receivable
+END
+report_gl_distribution.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/appdev/!svn/ver/11591/mrs/emrs.millers.com/trunk/app/views/accounts_receivable/report_gl_distribution.ctp
+END
+report_aging.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/appdev/!svn/ver/9624/mrs/emrs.millers.com/trunk/app/views/accounts_receivable/report_aging.ctp
+END

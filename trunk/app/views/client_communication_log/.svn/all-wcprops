@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/8814/mrs/emrs.millers.com/trunk/app/views/client_communication_log
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/appdev/!svn/ver/8799/mrs/emrs.millers.com/trunk/app/views/client_communication_log/module_for_customer.ctp
+END
+ajax_edit_log.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/8814/mrs/emrs.millers.com/trunk/app/views/client_communication_log/ajax_edit_log.ctp
+END

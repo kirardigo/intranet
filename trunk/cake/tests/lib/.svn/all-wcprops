@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib
+END
+cli_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cli_reporter.php
+END
+simpletest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/simpletest.php
+END
+test_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/test_manager.php
+END
+cake_web_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cake_web_test_case.php
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/content.php
+END
+cake_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cake_test_case.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/footer.php
+END
+xdebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/xdebug.php
+END
+code_coverage_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/code_coverage_manager.php
+END
+cake_test_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cake_test_model.php
+END
+cake_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cake_reporter.php
+END
+cake_test_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/cake_test_fixture.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/tests/lib/header.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/staff_pal_times
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/staff_pal_times/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/appdev/!svn/ver/11216/mrs/emrs.millers.com/trunk/app/views/staff_pal_times/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/appdev/!svn/ver/10523/mrs/emrs.millers.com/trunk/app/views/staff_pal_times/csv_summary.ctp
+END

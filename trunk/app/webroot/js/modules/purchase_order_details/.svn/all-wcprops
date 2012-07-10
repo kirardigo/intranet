@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/appdev/!svn/ver/11759/mrs/emrs.millers.com/trunk/app/webroot/js/modules/purchase_order_details
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/11759/mrs/emrs.millers.com/trunk/app/webroot/js/modules/purchase_order_details/core.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/11629/mrs/emrs.millers.com/trunk/app/webroot/js/modules/purchase_order_details/test.js
+END

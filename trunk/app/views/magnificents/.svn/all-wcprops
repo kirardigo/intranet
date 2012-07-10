@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/appdev/!svn/ver/8710/mrs/emrs.millers.com/trunk/app/views/magnificents
+END
+nominate.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/appdev/!svn/ver/8710/mrs/emrs.millers.com/trunk/app/views/magnificents/nominate.ctp
+END
+import_spreadsheet.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/appdev/!svn/ver/7787/mrs/emrs.millers.com/trunk/app/views/magnificents/import_spreadsheet.ctp
+END
+pending.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/7867/mrs/emrs.millers.com/trunk/app/views/magnificents/pending.ctp
+END
+review_pending.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/7918/mrs/emrs.millers.com/trunk/app/views/magnificents/review_pending.ctp
+END
+reporting.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/appdev/!svn/ver/8674/mrs/emrs.millers.com/trunk/app/views/magnificents/reporting.ctp
+END

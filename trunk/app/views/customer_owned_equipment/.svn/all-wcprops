@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment/module_for_customer.ctp
+END
+management.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/11671/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment/management.ctp
+END
+ajax_export_management_results.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/appdev/!svn/ver/11649/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment/ajax_export_management_results.ctp
+END
+module_management.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/appdev/!svn/ver/11649/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment/module_management.ctp
+END
+ajax_detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/appdev/!svn/ver/11649/mrs/emrs.millers.com/trunk/app/views/customer_owned_equipment/ajax_detail.ctp
+END

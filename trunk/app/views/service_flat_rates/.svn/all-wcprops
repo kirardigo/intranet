@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/appdev/!svn/ver/11531/mrs/emrs.millers.com/trunk/app/views/service_flat_rates
+END
+summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/appdev/!svn/ver/11531/mrs/emrs.millers.com/trunk/app/views/service_flat_rates/summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/appdev/!svn/ver/11492/mrs/emrs.millers.com/trunk/app/views/service_flat_rates/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/appdev/!svn/ver/11528/mrs/emrs.millers.com/trunk/app/views/service_flat_rates/csv_summary.ctp
+END

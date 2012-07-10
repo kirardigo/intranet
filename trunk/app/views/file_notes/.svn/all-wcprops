@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/appdev/!svn/ver/11365/mrs/emrs.millers.com/trunk/app/views/file_notes
+END
+management.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/appdev/!svn/ver/11345/mrs/emrs.millers.com/trunk/app/views/file_notes/management.ctp
+END
+module_for_customer.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/appdev/!svn/ver/11360/mrs/emrs.millers.com/trunk/app/views/file_notes/module_for_customer.ctp
+END
+ajax_export_summary_results.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/appdev/!svn/ver/11345/mrs/emrs.millers.com/trunk/app/views/file_notes/ajax_export_summary_results.ctp
+END
+module_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/appdev/!svn/ver/11360/mrs/emrs.millers.com/trunk/app/views/file_notes/module_summary.ctp
+END
+details.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/appdev/!svn/ver/11360/mrs/emrs.millers.com/trunk/app/views/file_notes/details.ctp
+END
+module_create.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/appdev/!svn/ver/11365/mrs/emrs.millers.com/trunk/app/views/file_notes/module_create.ctp
+END
+ajax_details.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/appdev/!svn/ver/11360/mrs/emrs.millers.com/trunk/app/views/file_notes/ajax_details.ctp
+END

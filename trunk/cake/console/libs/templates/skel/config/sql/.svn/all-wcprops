@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/db_acl.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/sessions.sql
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/i18n.php
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/sessions.php
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/appdev/!svn/ver/6643/mrs/emrs.millers.com/trunk/cake/console/libs/templates/skel/config/sql/i18n.sql
+END

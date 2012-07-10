@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/appdev/!svn/ver/11619/mrs/emrs.millers.com/trunk/app/views/manufacturer_form_codes
+END
+management.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/appdev/!svn/ver/11533/mrs/emrs.millers.com/trunk/app/views/manufacturer_form_codes/management.ctp
+END
+module_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/appdev/!svn/ver/11562/mrs/emrs.millers.com/trunk/app/views/manufacturer_form_codes/module_summary.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/appdev/!svn/ver/11619/mrs/emrs.millers.com/trunk/app/views/manufacturer_form_codes/edit.ctp
+END
+csv_summary.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/appdev/!svn/ver/11619/mrs/emrs.millers.com/trunk/app/views/manufacturer_form_codes/csv_summary.ctp
+END
